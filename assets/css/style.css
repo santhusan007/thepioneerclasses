@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  background: #0c0b09;
+  background: white;
   color: #fff;
 }
 
@@ -650,7 +650,7 @@ section {
 }
 
 .section-bg {
-  background-color: #1a1814;
+  background-color: white;
 }
 
 .section-title {
